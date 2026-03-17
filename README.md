@@ -14,7 +14,7 @@
 </a>
 
 <br><br>
-<img align="center" src="https://user-images.githubusercontent.com/69279746/111105930-d5fe3d80-8532-11eb-9158-cdd9cedf547f.gif](https://user-images.githubusercontent.com/69279746/111102510-02ae5700-852b-11eb-97b9-7c21e8f01b34.jpg" />
+<img align="center" src="https://user-images.githubusercontent.com/69279746/111102510-02ae5700-852b-11eb-97b9-7c21e8f01b34.jpg" />
 
 
 ## <p align="center"><h4 align="center"><samp> A full-stack web developer, a software engineer in training, and a competitive programmer.</samp></h4></p>
